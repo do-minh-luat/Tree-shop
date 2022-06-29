@@ -9,3 +9,4 @@
   - phân trang.
   - chi tiết sản phẩm.
   - giỏ hàng.
+  - đăng nhập, đăng kí.
